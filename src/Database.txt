@@ -1,0 +1,7 @@
+Environment Contains Red_Court
+Environment Contains Blue_Court
+Environment Contains Jail
+Red_Team Is_A Team
+Blue_Team Is_A Team
+Environment Contains Ball_{0}
+Environment Contains Player_{0}
